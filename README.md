@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+### Shared Code:
+
+- Things I share are located in my [n4maticist organization account](/n4maticist).
