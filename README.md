@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ### Shared Code:
 
-- Things I share are located in my [n4maticist organization account](/n4maticist).
+- Things I share are located in my [n4maticist organization account](https://github.com/n4maticist).
