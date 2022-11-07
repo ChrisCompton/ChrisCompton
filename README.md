@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Curiosities
+
+#### Crystal
+- https://crystal-lang.org/
+- https://amberframework.org/
+- https://kemalcr.com/
+
+#### Ruby
+- https://www.ruby-lang.org/en/
+- https://rubyonrails.org/
 
 
 ### Shared Code:
