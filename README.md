@@ -27,6 +27,4 @@ Here are some ideas to get you started:
 - https://rubyonrails.org/
 
 
-### Shared Code:
-
-- Things I share are located in my [n4maticist organization account](https://github.com/n4maticist).
+**Languages of Interest**:  [Python](https://www.python.org/) | [Go](https://go.dev/) | [Rust](https://www.rust-lang.org/) | [Ruby](https://www.ruby-lang.org/en/) | [Crystal](https://crystal-lang.org/)
