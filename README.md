@@ -15,16 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Curiosities
+## Languages of Interest
 
-#### Crystal
-- https://crystal-lang.org/
-- https://amberframework.org/
-- https://kemalcr.com/
+- [Python](https://www.python.org/)
+- [Go](https://go.dev/)
+- [Rust](https://www.rust-lang.org/)
 
-#### Ruby
-- https://www.ruby-lang.org/en/
-- https://rubyonrails.org/
-
-
-**Languages of Interest**:  [Python](https://www.python.org/) | [Go](https://go.dev/) | [Rust](https://www.rust-lang.org/) | [Ruby](https://www.ruby-lang.org/en/) | [Crystal](https://crystal-lang.org/)
