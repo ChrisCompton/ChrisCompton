@@ -5,6 +5,7 @@ I have had a wonderful career spanning nearly three decades of innovation in pub
 ## Languages of Interest
 
 - [Python](https://www.python.org/)
+- [Julia](https://julialang.org/)
 - [Go](https://go.dev/)
 - [Rust](https://www.rust-lang.org/)
 
