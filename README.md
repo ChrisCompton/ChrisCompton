@@ -15,3 +15,4 @@ I have had a wonderful career spanning nearly three decades of innovation in pub
 - [Informatics FYI](https://informatics.fyi) 
 - [Informaticists in Public Service](https://informaticist.org)
 - [My YouTube Channel](https://www.youtube.com/@informaticsfyi)
+- [Odds and Ends](https://compton.dev)
