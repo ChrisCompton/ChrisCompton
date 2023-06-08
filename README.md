@@ -8,6 +8,7 @@ I have had a wonderful career spanning nearly three decades of innovation in pub
 - [Julia](https://julialang.org/)
 - [Go](https://go.dev/)
 - [Rust](https://www.rust-lang.org/)
+- [Swift](https://www.swift.org/)
 
 ## My Sites
 
