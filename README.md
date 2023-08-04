@@ -4,8 +4,14 @@ I have had a wonderful career of innovation in public safety, federal service an
 
 ## Languages of Interest
 
-- [Python](https://www.python.org/) | [FastAPI](https://fastapi.tiangolo.com/)
-- [Swift](https://www.swift.org/) | [Vapor](https://vapor.codes)
+- [Python](https://www.python.org/)
+  - [FastAPI](https://fastapi.tiangolo.com/)
+  - [Pandas](https://pandas.pydata.org/)
+  - [Pydantic](https://docs.pydantic.dev/latest/)
+    
+- [Swift](https://www.swift.org/)
+  - [Vapor](https://vapor.codes)
+  - [OpenAPI Generator](https://www.swift.org/blog/introducing-swift-openapi-generator/)
 
 - [Julia](https://julialang.org/)
 - [Go](https://go.dev/)
