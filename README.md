@@ -4,11 +4,12 @@ I have had a wonderful career of innovation in public safety, federal service an
 
 ## Languages of Interest
 
-- [Python](https://www.python.org/)
+- [Python](https://www.python.org/) | [FastAPI](https://fastapi.tiangolo.com/)
+- [Swift](https://www.swift.org/) | [Vapor](https://vapor.codes)
+
 - [Julia](https://julialang.org/)
 - [Go](https://go.dev/)
 - [Rust](https://www.rust-lang.org/)
-- [Swift](https://www.swift.org/)
 
 ## My Sites
 
