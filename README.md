@@ -14,4 +14,4 @@ I have had a wonderful career of innovation in public safety, federal service an
 - [Informatics FYI](https://informatics.fyi) 
 - [Informaticists in Public Service](https://informaticist.org)
 - [My YouTube Channel](https://www.youtube.com/@informaticsfyi)
-- [Odds and Ends](https://n4maticist.com)
+- [Odds and Ends](https://compton.fyi)
