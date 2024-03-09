@@ -6,6 +6,7 @@ I have had a wonderful career of innovation in public safety, federal service an
 
 - [**Python**](https://www.python.org/) / [FastAPI](https://fastapi.tiangolo.com/) | [Pandas](https://pandas.pydata.org/) 
 | [Pydantic](https://docs.pydantic.dev/latest/)
+- [**Deno**](https://deno.com) / [Fresh](https://fresh.deno.dev/)
 - [**Swift**](https://www.swift.org/) / [Vapor](https://vapor.codes) | [OpenAPI Generator](https://www.swift.org/blog/introducing-swift-openapi-generator/)
 - Also: [Julia](https://julialang.org/), [Go](https://go.dev/), [Rust](https://www.rust-lang.org/)
 
