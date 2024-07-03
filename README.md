@@ -4,11 +4,22 @@ I have had a wonderful career of innovation in public safety, federal service an
 
 ## Languages/Tech of Interest
 
-- [**Python**](https://www.python.org/) / [FastAPI](https://fastapi.tiangolo.com/) | [Pandas](https://pandas.pydata.org/) 
-| [Pydantic](https://docs.pydantic.dev/latest/)
-- [**TypeScript**](https://www.typescriptlang.org/) / [Deno](https://deno.com) | [Fresh](https://fresh.deno.dev/) | [Lume](https://lume.land/)
+- [**Python**](https://www.python.org/) / [Django](https://www.djangoproject.com/) | [FastAPI](https://fastapi.tiangolo.com/) | [Pandas](https://pandas.pydata.org/) | [Pydantic](https://docs.pydantic.dev/latest/)
 - [**Swift**](https://www.swift.org/) / [Vapor](https://vapor.codes) | [OpenAPI Generator](https://www.swift.org/blog/introducing-swift-openapi-generator/)
+
+## Curiously Exploring
+
 - [**Quarkus**](https://quarkus.io/)
+- [**Rust**](https://www.rust-lang.org/) / [**RustPython**](https://rustpython.github.io/)
+
+## Other Frameworks
+
+- [Tailwind CSS](https://tailwindcss.com/) | [DaisyUI](https://daisyui.com/) | [TailAdmin](https://tailadmin.com/)
+- [AlpineJS](https://alpinejs.dev/)
+- [</> htm**x**](https://htmx.org/)
+- [Node.js](https://nodejs.org/en) | [Typescript](https://www.typescriptlang.org/)
+- [Playwright](https://playwright.dev/python/)
+- [Storybook](https://storybook.js.org/)
 
 ## My Sites
 
