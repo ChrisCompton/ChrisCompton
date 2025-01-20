@@ -4,15 +4,15 @@ I have had a wonderful career of innovation in public safety, federal service an
 
 ## Languages/Tech of Interest
 
-- [**TypeScript**](https://www.typescriptlang.org/) / [Svelte](https://svelte.dev/) | [React](https://react.dev/) | [Bun](https://bun.sh/) | [Hon](https://hono.dev/) | [Node.js](https://nodejs.org/en)
-- [**Python**](https://www.python.org/) / [Django](https://www.djangoproject.com/) | [FastAPI](https://fastapi.tiangolo.com/) | [Pandas](https://pandas.pydata.org/) | [Pydantic](https://docs.pydantic.dev/latest/) | [SQLModel](https://sqlmodel.tiangolo.com/) | [Typer](https://typer.tiangolo.com/)
-- [**Swift**](https://www.swift.org/) / [Vapor](https://vapor.codes) | [OpenAPI Generator](https://www.swift.org/blog/introducing-swift-openapi-generator/)
-- [**DuckDB**](https://duckdb.org/)
+- [**TypeScript**](https://typescriptlang.org/) / [Svelte](https://svelte.dev/) | [React](https://react.dev/) | [Bun](https://bun.sh/) | [Hon](https://hono.dev/) | [Node.js](https://nodejs.org/en)
+- [**Python**](https://python.org/) / [Django](https://djangoproject.com/) | [FastAPI](https://fastapi.tiangolo.com/) | [Pandas](https://pandas.pydata.org/) | [Pydantic](https://docs.pydantic.dev/latest/) | [SQLModel](https://sqlmodel.tiangolo.com/) | [Typer](https://typer.tiangolo.com/)
+- [**Swift**](https://swift.org/) / [Vapor](https://vapor.codes) | [OpenAPI Generator](https://swift.org/blog/introducing-swift-openapi-generator/)
+- **Database** / [PostgreSQL](https://postgresql.org/) | [DuckDB](https://duckdb.org/) | [SQLite](https://sqlite.org/)
 
 ## Other Frameworks
 
 - [Tailwind CSS](https://tailwindcss.com/)
-- [ChakraUI](https://www.chakra-ui.com/) | [DaisyUI](https://daisyui.com/) | [TailAdmin](https://tailadmin.com/)
+- [ChakraUI](https://chakra-ui.com/) | [DaisyUI](https://daisyui.com/) | [TailAdmin](https://tailadmin.com/)
 - [AlpineJS](https://alpinejs.dev/) | [</> htm**x**](https://htmx.org/)
 - [Playwright](https://playwright.dev/python/)
 - [Storybook](https://storybook.js.org/)
@@ -21,5 +21,5 @@ I have had a wonderful career of innovation in public safety, federal service an
 
 - [Informatics FYI, Inc.](https://informatics.fyi) 
 - [Informaticists in Public Service](https://informaticist.org)
-- [My YouTube Channel](https://www.youtube.com/@informaticsfyi)
+- [My YouTube Channel](https://youtube.com/@informaticsfyi)
 - [Odds and Ends](https://compton.fyi)
