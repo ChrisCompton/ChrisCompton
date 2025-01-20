@@ -4,22 +4,9 @@ I have had a wonderful career of innovation in public safety, federal service an
 
 ## Languages/Tech of Interest
 
-- [**TypeScript**](https://www.typescriptlang.org/)
-    - [Svelte](https://svelte.dev/)
-    - [React](https://react.dev/)
-    - [Bun](https://bun.sh/)
-    - [Hon](https://hono.dev/)
-    - [Node.js](https://nodejs.org/en)
-- [**Python**](https://www.python.org/)
-    - [Django](https://www.djangoproject.com/)
-    - [FastAPI](https://fastapi.tiangolo.com/)
-    - [Pandas](https://pandas.pydata.org/)
-    - [Pydantic](https://docs.pydantic.dev/latest/)
-    - [SQLModel](https://sqlmodel.tiangolo.com/)
-    - [Typer](https://typer.tiangolo.com/)
-- [**Swift**](https://www.swift.org/)
-    - [Vapor](https://vapor.codes)
-    - [OpenAPI Generator](https://www.swift.org/blog/introducing-swift-openapi-generator/)
+- [**TypeScript**](https://www.typescriptlang.org/) / [Svelte](https://svelte.dev/) | [React](https://react.dev/) | [Bun](https://bun.sh/) | [Hon](https://hono.dev/) | [Node.js](https://nodejs.org/en)
+- [**Python**](https://www.python.org/) / [Django](https://www.djangoproject.com/) | [FastAPI](https://fastapi.tiangolo.com/) | [Pandas](https://pandas.pydata.org/) | [Pydantic](https://docs.pydantic.dev/latest/) | [SQLModel](https://sqlmodel.tiangolo.com/) | [Typer](https://typer.tiangolo.com/)
+- [**Swift**](https://www.swift.org/) / [Vapor](https://vapor.codes) | [OpenAPI Generator](https://www.swift.org/blog/introducing-swift-openapi-generator/)
 - [**DuckDB**](https://duckdb.org/)
 
 ## Other Frameworks
