@@ -4,6 +4,12 @@ I have had a wonderful career of innovation in public safety, federal service an
 
 ## Languages/Tech of Interest
 
+- [**TypeScript**](https://www.typescriptlang.org/)
+    - [Svelte](https://svelte.dev/)
+    - [React](https://react.dev/)
+    - [Bun](https://bun.sh/)
+    - [Hon](https://hono.dev/)
+    - [Node.js](https://nodejs.org/en)
 - [**Python**](https://www.python.org/)
     - [Django](https://www.djangoproject.com/)
     - [FastAPI](https://fastapi.tiangolo.com/)
@@ -20,8 +26,7 @@ I have had a wonderful career of innovation in public safety, federal service an
 
 - [Tailwind CSS](https://tailwindcss.com/)
 - [ChakraUI](https://www.chakra-ui.com/) | [DaisyUI](https://daisyui.com/) | [TailAdmin](https://tailadmin.com/)
-- [ReactJS](https://react.dev/) | [AlpineJS](https://alpinejs.dev/) | [</> htm**x**](https://htmx.org/)
-- [Node.js](https://nodejs.org/en) | [Typescript](https://www.typescriptlang.org/)
+- [AlpineJS](https://alpinejs.dev/) | [</> htm**x**](https://htmx.org/)
 - [Playwright](https://playwright.dev/python/)
 - [Storybook](https://storybook.js.org/)
 
