@@ -20,6 +20,7 @@ I have had a wonderful career of innovation in public safety, federal service an
 ## My Sites
 
 - [Informatics FYI, Inc.](https://informatics.fyi) 
+- [Cambigo Workflow](https://cambigo.com) 
+- [My YouTube Channel](https://www.youtube.com/@DanCoCoProject)
+- [The Dan CoCo Project](https://dancoco.fyi)
 - [Informaticists in Public Service](https://informaticist.org)
-- [My YouTube Channel](https://youtube.com/@informaticsfyi)
-- [Odds and Ends](https://compton.fyi)
