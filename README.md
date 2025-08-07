@@ -4,16 +4,16 @@ I have had a wonderful career of innovation in public safety, federal service an
 
 ## Languages/Tech of Interest
 
-- [**TypeScript**](https://typescriptlang.org/) / [Svelte](https://svelte.dev/) | [React](https://react.dev/) | [Bun](https://bun.sh/) | [Hon](https://hono.dev/) | [Node.js](https://nodejs.org/en)
-- [**Python**](https://python.org/) / [Django](https://djangoproject.com/) | [FastAPI](https://fastapi.tiangolo.com/) | [Pandas](https://pandas.pydata.org/) | [Pydantic](https://docs.pydantic.dev/latest/) | [SQLModel](https://sqlmodel.tiangolo.com/) | [Typer](https://typer.tiangolo.com/)
+- [**TypeScript**](https://typescriptlang.org/) / [Svelte](https://svelte.dev/) | [React](https://react.dev/) | [Bun](https://bun.sh/)
+- [**JavaScript**] / [Deno](https://deno.com/) | [Hon](https://hono.dev/) | [Node.js](https://nodejs.org/en)
+- [**Python**](https://python.org/) / [FastAPI](https://fastapi.tiangolo.com/) | [FastMCP](https://gofastmcp.com/) | [Pandas](https://pandas.pydata.org/) | [Pydantic](https://docs.pydantic.dev/latest/) | [SQLModel](https://sqlmodel.tiangolo.com/) | [Typer](https://typer.tiangolo.com/)
 - [**Swift**](https://swift.org/) / [Vapor](https://vapor.codes) | [OpenAPI Generator](https://swift.org/blog/introducing-swift-openapi-generator/)
 - **Database** / [PostgreSQL](https://postgresql.org/) | [Redis](https://redis.io/) | [DuckDB](https://duckdb.org/) | [SQLite](https://sqlite.org/)
 
 ## Other Frameworks
 
 - [Tailwind CSS](https://tailwindcss.com/)
-- [ChakraUI](https://chakra-ui.com/) | [DaisyUI](https://daisyui.com/) | [TailAdmin](https://tailadmin.com/)
-- [AlpineJS](https://alpinejs.dev/) | [</> htm**x**](https://htmx.org/)
+- [ChakraUI](https://chakra-ui.com/) | [DaisyUI](https://daisyui.com/)
 - [Playwright](https://playwright.dev/python/)
 - [Storybook](https://storybook.js.org/)
 
@@ -21,6 +21,5 @@ I have had a wonderful career of innovation in public safety, federal service an
 
 - [Informatics FYI, Inc.](https://informatics.fyi) 
 - [Cambigo Workflow](https://cambigo.com) 
-- [My YouTube Channel](https://www.youtube.com/@DanCoCoProject)
 - [The Dan CoCo Project](https://dancoco.fyi)
 - [Informaticists in Public Service](https://informaticist.org)
