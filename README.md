@@ -5,7 +5,7 @@ I have had a wonderful career of innovation in public safety, federal service an
 ## Languages/Tech of Interest
 
 - [**TypeScript**](https://typescriptlang.org/) / [Svelte](https://svelte.dev/) | [React](https://react.dev/) | [Bun](https://bun.sh/)
-- [**JavaScript**] / [Deno](https://deno.com/) | [Hon](https://hono.dev/) | [Node.js](https://nodejs.org/en)
+- [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript) / [Deno](https://deno.com/) | [Hon](https://hono.dev/) | [Node.js](https://nodejs.org/en)
 - [**Python**](https://python.org/) / [FastAPI](https://fastapi.tiangolo.com/) | [FastMCP](https://gofastmcp.com/) | [Pandas](https://pandas.pydata.org/) | [Pydantic](https://docs.pydantic.dev/latest/) | [SQLModel](https://sqlmodel.tiangolo.com/) | [Typer](https://typer.tiangolo.com/)
 - [**Swift**](https://swift.org/) / [Vapor](https://vapor.codes) | [OpenAPI Generator](https://swift.org/blog/introducing-swift-openapi-generator/)
 - **Database** / [PostgreSQL](https://postgresql.org/) | [Redis](https://redis.io/) | [DuckDB](https://duckdb.org/) | [SQLite](https://sqlite.org/)
