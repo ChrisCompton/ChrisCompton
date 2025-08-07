@@ -2,6 +2,13 @@
 
 I have had a wonderful career of innovation in public safety, federal service and dedication to helping others.  I spend most of my time in informatics, software development and information technology. I have a unique blend of private and public sector service, across a wide spectrum of web and mobile technologies, including a healthy dose of legal, policy and project management experience. I fought fires, ate smoke and gave care when seconds counted for 10 of my younger years as an Emergency Medical Technician and volunteer firefighter.
 
+## My Sites
+
+- [Informatics FYI, Inc.](https://informatics.fyi) 
+- [Cambigo Workflow](https://cambigo.com) 
+- [The Dan CoCo Project](https://dancoco.fyi)
+- [Informaticists in Public Service](https://informaticist.org)
+
 ## Languages/Tech of Interest
 
 - [**Python**](https://python.org/) / [FastAPI](https://fastapi.tiangolo.com/) | [FastMCP](https://gofastmcp.com/) | [Pandas](https://pandas.pydata.org/) | [Pydantic](https://docs.pydantic.dev/latest/) | [SQLModel](https://sqlmodel.tiangolo.com/) | [Typer](https://typer.tiangolo.com/)
@@ -19,9 +26,4 @@ I have had a wonderful career of innovation in public safety, federal service an
 - [Playwright](https://playwright.dev/python/)
 - [Storybook](https://storybook.js.org/)
 
-## My Sites
 
-- [Informatics FYI, Inc.](https://informatics.fyi) 
-- [Cambigo Workflow](https://cambigo.com) 
-- [The Dan CoCo Project](https://dancoco.fyi)
-- [Informaticists in Public Service](https://informaticist.org)
